@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_signIn_page">SignInPage</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_login_page">Login Page</string>
+    <string name="title_activity_setting_page">SettingPage</string>
+    <string name="title_activity_about_page">AboutPage</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_about_screen">AboutScreen</string>
+    <string name="title_activity_sign_in_page">SignInPage</string>
+    <string name="title_activity_setting_ui">SettingUi</string>
+    <string name="title_activity_education_ui">EducationUi</string>
+    <string name="title_activity_main">MainActivity</string>
+    // For Navigation
+    <string name="Home">Home</string>
+    <string name="Education">Education</string>
+    <string name="Settings">Settings</string>
+    <string name="Profile">Profile</string>
+</resources>
